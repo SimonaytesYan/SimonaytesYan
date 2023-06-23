@@ -1,3 +1,3 @@
 ## Hello everyone
 I`m Yan Simonaytes  
-[CV](CV.pdf)
+[CV](https://github.com/SimonaytesYan/SimonaytesYan/blob/master/CV.pdf)
